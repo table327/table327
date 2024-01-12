@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @table327
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in **software engineering**
 - 🌱 I’m currently learning programming and project management.
 - 💞️ I’m looking to collaborate on software dev teams.
 - 📫 How to reach me table327tennis@gmail.com
